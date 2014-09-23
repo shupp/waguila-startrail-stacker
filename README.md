@@ -29,7 +29,7 @@ This script will allow you to create a startrail with some amazing effects, the 
 There is several ways how to use the script :
 
 1. From photoshop ... **File –&gt; Scripts –&gt; Browse… **then select the script file 
-2. OR copy the script in the default script folder used by Photoshop and you will find **Waguila_StarTrail_Stacker_V1.2**  in the menu.
+2. OR copy the script in the default script folder used by Photoshop and you will find **Waguila_StarTrail_Stacker**  in the menu.
 
 I spent long hours to optimize and make this script please let me know how it would work for you ... i am sure you will find bugs and error or even bad calculation or bad situation where this script won't work, feel free to modify it, share it with other people or send me your findings and your suggestion and I will try to include them in the next version.
 
