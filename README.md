@@ -1,10 +1,10 @@
-**Original Source : www.waguila.weebly.com.  This version maintained by Bill Shupp**
+**Original Source : www.waguila.weebly.com**
 
-**What does the ****Script**** do ?**
+**What does the Script do ?**
 
 This script will allow you to create a startrail with some amazing effects, the first version contains the 5 effects found in [liketheocean](http://liketheocean.com/night-photography/stacking-up-the-stars-getting-creative/) blog and two extra ones that I created myself and called them **Zero Opacity** and **Full Opacity**.
 
-**Whats is new in this ****Script**** ?**
+**Whats is new in this Script ?**
 
 - _The first new feature of this script is the fact you can select an unlimited number of files to stack together without killing your system_
 - _The code is optimized to be fast (this is depends on your machine and the size of the files thu)_
