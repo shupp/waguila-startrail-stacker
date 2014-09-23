@@ -1,4 +1,4 @@
-**Source : www.waguila.weebly.com**
+**Original Source : www.waguila.weebly.com.  This version maintained by Bill Shupp**
 
 **What does the ****Script**** do ?**
 
