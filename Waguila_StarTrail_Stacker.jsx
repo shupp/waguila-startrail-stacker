@@ -33,12 +33,12 @@ function main()
     /// ONLY JPG files are supported
     selectedFolder = Folder.selectDialog( "Please select input folder");
     if(selectedFolder == null) return;
-    var fileList = selectedFolder.getFiles(/\.(jpg|jpeg)$/i);
+    var fileList = selectedFolder.getFiles(/\.(jpg|jpeg|cr2)$/i);
     
     //at least 2 pictures in the folder otherwise these is nothing to do :)   
     if (fileList.length<2) 
     {
-        alert ("Please select a folder with 2 or more JPG file you wanna stack");
+        alert ("Please select a folder with 2 or more JPG or RAW files you want to stack");
         return;
     }
     
